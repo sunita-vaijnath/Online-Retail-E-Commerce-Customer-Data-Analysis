@@ -20,7 +20,7 @@ Each folder is self-contained: a notebook, a `data/` folder with the cleaned dat
 
 **Online Retail II** — invoice-level e-commerce transactions from a UK-based gift retailer, December 2009 to December 2011. 1,027,017 transaction line items, 4,932 products, 5,939 customers, 43 countries. Source: UCI Machine Learning Repository / Kaggle.     
 
-**UCI Online Retail II - https://archive.ics.uci.edu/dataset/502/online+retail?utm_source=chatgpt.com**  
+**UCI Online Retail II - https://archive.ics.uci.edu/dataset/502/online+retail**  
 (use this link u get the dataset)
 
 ## Weekly Summary
